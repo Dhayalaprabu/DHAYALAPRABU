@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/profile-banner.svg" alt="Dhayalaprabu S. - Aspiring Java backend engineer building practical, intelligent applications" width="100%">
+  <img src="assets/profile-banner.svg" alt="DHAYALAPRABU S. - Aspiring Java backend engineer building practical, intelligent applications" width="100%">
 
   <a href="https://github.com/Dhayalaprabu">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&height=44&lines=Aspiring+Java+Backend+Developer;AI+and+Data+Science+Student;Building+practical+intelligent+applications" alt="Typing animation: Aspiring Java Backend Developer, AI and Data Science Student, Building practical intelligent applications">
