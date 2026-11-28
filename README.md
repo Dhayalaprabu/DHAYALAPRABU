@@ -7,7 +7,7 @@
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="">
-
+ 
 ## About
 
 I'm a third-year B.Tech student in Artificial Intelligence and Data Science at Saveetha Engineering College, Chennai (CGPA 8.1, graduating in 2028).
@@ -28,6 +28,14 @@ My main direction is **Java backend development**. I'm building that foundation 
 -->
 
 <img src="assets/divider.svg" width="100%" alt="">
+
+---
+
+<h2 align="center">🚀 MY GITHUB SOLAR SYSTEM</h2>
+
+<p align="center">
+  <img src="./solar-system.svg" width="100%" alt="My GitHub Solar System"/>
+</p>
 
 ## Socials
 
